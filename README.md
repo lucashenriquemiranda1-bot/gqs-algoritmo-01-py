@@ -1,5 +1,3 @@
-# gqs-algoritmo-01-py
-
 # Verificador de Palíndromos
 
 Este projeto verifica se um texto é um palíndromo, ou seja, se pode ser lido da mesma forma de trás para frente. O programa também ignora espaços, pontuação e diferenças entre letras maiúsculas e minúsculas.
