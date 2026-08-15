@@ -43,8 +43,8 @@ if __name__ == "__main__":
 - True
 ```python
 
-    print("false");
-    print("True");
+    Teste 1: False
+Teste 2: True
 ```
 
 # Lógica do algoritmo
