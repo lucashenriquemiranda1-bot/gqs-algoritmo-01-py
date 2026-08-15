@@ -16,7 +16,7 @@ Para executar o projeto, é necessário **apenas** ter o Python 3 instalado.
 - texto1 = "A sacada da casa de cadasa"
 - texto2 = "Socorram-me, subi no ônibus em Marrocos"
 
-```python
+```
 import re
 
 def analisar(entrada):
