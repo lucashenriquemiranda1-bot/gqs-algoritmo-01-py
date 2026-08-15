@@ -13,8 +13,6 @@ Para executar o projeto, é necessário **apenas** ter o Python 3 instalado.
 # Exemplo:
 
 ## Entrada 
-- texto1 = "A sacada da casa de cadasa"
-- texto2 = "Socorram-me, subi no ônibus em Marrocos"
 ```python
 import re
 
@@ -39,8 +37,6 @@ if __name__ == "__main__":
 ```
 
 ## Saída
-- False
-- True
 ```python
 Teste 1: False
 Teste 2: True
