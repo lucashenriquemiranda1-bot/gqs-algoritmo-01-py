@@ -42,8 +42,7 @@ if __name__ == "__main__":
 - False
 - True
 ```python
-
-    Teste 1: False
+Teste 1: False
 Teste 2: True
 ```
 
